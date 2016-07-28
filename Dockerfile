@@ -52,8 +52,6 @@ RUN mkdir -p ${HOME} && \
         php7-pdo_mysql \
         php7-mcrypt \
         php7-curl \
-        php7-mongodb \
-        php7-redis\
         php7-json \
         php7-fpm \
         php7-phar \
