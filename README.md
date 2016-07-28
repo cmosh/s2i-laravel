@@ -5,7 +5,6 @@ Openshift s2i image for running Laravel (or other php projects).
 - Alpine Linux
 - PHP-FPM 7
 - Caddy
-(Added some php extensions)
 
 
 For custom entry file or another public directory, change the etc/caddy/caddy.conf file to reflect your needs
